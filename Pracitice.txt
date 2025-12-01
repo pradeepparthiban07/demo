@@ -1,1 +1,1 @@
-Second entry on same date. Now the previous records are removed.
+Third entry on same date. Now the previous records are not removed.
